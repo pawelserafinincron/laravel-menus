@@ -20,10 +20,10 @@
     }
   ],
   "require": {
-    "php": "^8.0",
-    "illuminate/support": "^9.44",
-    "illuminate/config": "^9.44",
-    "illuminate/view": "^9.44",
+    "php": ">=8.1",
+    "illuminate/support": "^10.0",
+    "illuminate/config": "^10.0",
+    "illuminate/view": "^10.0",
     "laravelcollective/html": "^6.2"
   },
   "require-dev": {
